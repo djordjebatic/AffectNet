@@ -46,9 +46,7 @@ networkx==2.4
 nose==1.3.7
 notebook==5.7.8
 numpy==1.18.1
-opencv-contrib-python==4.2.0.32
-opencv-python==4.1.2.30
-opencv-python-headless==4.1.2.30
+opencv-python==4.2.0.32
 opt-einsum==3.1.0
 pandas==0.20.2
 pandocfilters==1.4.1
