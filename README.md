@@ -124,7 +124,7 @@ Running video test creates test_out.avi file.
 
 ## Deployment
 
-Models were deployed on NVIDIA Jetson Nano device running on the Ubuntu 18.04 OS with Keras version 2.2.2 and Tensorflow version 1.10.0 installed.
+Models were deployed on NVIDIA Jetson Nano device running on the Ubuntu 18.04 OS with Keras version 2.2.4 and Tensorflow version 1.15.2 installed.
 In order to use them on your own Jetson Nano device, clone this repository and run the script by typing the following command.
 For additional information see [this link](https://github.com/NVIDIA-AI-IOT/tf_to_trt_image_classification)
 ```bash
