@@ -1,6 +1,8 @@
 # AffectNet
 
-This repo contains code for paper [TODO](TODO).
+This repo contains code for reproducing my Bachelor thesis project titled *"Facial Affect Analysis on Mobile Devices Using Convolutional Neural Networks"*.
+
+<img src="assets/demo.gif" width="500" />
 
 ## Getting Started
 
@@ -30,8 +32,9 @@ Average RMSE (root mean squared error) is __0.39__, same as baseline.
 
 Both networks occupy total of just __28MB__ of space and achieve average inference speed of __**ms__ and __**ms__ respectively on NVIDIA Jetson Nano device.
 
-Additional improvements in form of *** are planned.
-For a detailed look at the performance metrics read our paper.
+### Supports Multi-Face inference
+
+<img src="assets/demo.png" width="500" />
 
 ## Training
 
@@ -138,6 +141,7 @@ Both models were trained using only the manually annotated images.
 
 ## Authors
 
+Djordje Batic - University of Novi Sad
 
 ## License
 
